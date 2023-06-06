@@ -149,5 +149,4 @@ void thongke(int n, TB ds[])
     for (int i = 0; i <= max; i++)
         if (thongke[i] > 0)
             printf("\n%-15d %-5d",i, thongke[i]);
-
 }
