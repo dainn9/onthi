@@ -34,7 +34,7 @@ int main(){
     thongke(n,ds);
     getch();
 }
-
+// het ham main
 void nhapdsTB(int *n, TB ds[])
 {
     printf("\nNhap n: ");
